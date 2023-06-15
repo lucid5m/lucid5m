@@ -17,8 +17,8 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/609827079818575903)](https://discord.com/users/609827079818575903)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucid5m&count_private=true&show_icons=true&theme=tokyonight)
-<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucid5m&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucid5m&hide_border=true&card_width=338&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucid5m&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" /></p>
-<img src="https://komarev.com/ghpvc/?username=lucid5m&color=lightgray" alt="fax" width="" height="">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tom5m&count_private=true&show_icons=true&theme=tokyonight)
+<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tom5m&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tom5m&hide_border=true&card_width=338&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tom5m&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" /></p>
+<img src="https://komarev.com/ghpvc/?username=tom5m&color=lightgray" alt="fax" width="" height="">
