@@ -21,4 +21,3 @@
 <p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tom5m&theme=tokyonight" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tom5m&hide_border=true&card_width=338&theme=tokyonight" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tom5m&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" /></p>
-<img src="https://komarev.com/ghpvc/?username=tom5m&color=lightgray" alt="fax" width="" height="">
