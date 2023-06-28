@@ -15,6 +15,12 @@
 <h2 align="center">current projects</h2>
 Luna RP CMG Inspiered Server https.discord.gg/luna5m
 
+
+
+
+
+
+<h2 align="center">Info</h2>
 [![Discord Presence](https://lanyard.cnrad.dev/api/609827079818575903)](https://discord.com/users/609827079818575903)
 
 
