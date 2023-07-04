@@ -13,7 +13,7 @@
 </p>
 
 <h2 align="center">current projects</h2>
-Luna RP CMG Inspiered Server https.discord.gg/luna5m
+BTF RP CMG Inspiered Server
 
 
 
