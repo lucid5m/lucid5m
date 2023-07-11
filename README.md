@@ -1,6 +1,6 @@
 <h1>Tom</h1>
 
-- tom
+- Tom
 - 17
 
 <h2 align="center">langs</h2>
